@@ -2,13 +2,13 @@
 
 🎓 3rd-Year Software Engineering Student at the University of Dhaka  
 💻 Passionate about full-stack development, distributed systems, and open-source projects  
-🔍 Always eager to explore, learn, and build meaningful software solutions  
+🔍 Currently Exploring AI Appliccation, Software Testing, DevOps.  
 
 ---
 
 ## 🚀 About Me
 
-I'm currently pursuing my B.Sc. in Software Engineering at the **Institute of Information Technology**, University of Dhaka. With a CGPA of **3.82 (out of 4.00)** and hands-on experience in diverse projects, I thrive at the intersection of theory and practical problem-solving.
+I'm currently pursuing my B.Sc. in Software Engineering at the **Institute of Information Technology**, University of Dhaka.
 
 I enjoy developing full-stack applications, building intelligent systems, and contributing to software that helps real-world users. Whether it's designing REST APIs, crafting responsive frontends, or diving into network traffic analysis, I love taking on new challenges.
 
@@ -54,14 +54,6 @@ Git, GitHub, Docker, NGINX, Postman, ZegoCloud, Cloudinary, Selenium, Linux
 
 **Databases:**  
 MongoDB, Oracle SQL
-
----
-
-## 🌟 Activities & Achievements
-
-- **Assistant Treasurer**, IIT Software Engineers’ Community  
-- **Participant**, Bangladesh Physics Olympiad (National Round)  
-- Organized tech seminars, workshops, and national coding contests  
 
 ---
 
