@@ -62,7 +62,7 @@ MongoDB, Oracle SQL
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mustakim-bin-mohsin/)  
 - 💌 Email: bsse1405@iit.du.ac.bd  
 - 📞 Phone: +8801740790455  
-- 🧠 Resume: [View PDF](https://docs.google.com/document/d/1RAZFTMS9vk3TcmjV4ZwxPs90V4C5aWwD8GToiNgk2Wo/edit?usp=sharing)
+- 🧠 Resume: [View PDF](https://drive.google.com/file/d/1h8-xOBFUgqSB2mzuP5cYExvKGRBO-HHt/view?usp=sharing)
 
 ---
 
