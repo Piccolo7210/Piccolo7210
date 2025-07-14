@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👋 Hi, I'm Mustakim Bin Mohsin
 
-<!--
-**Piccolo7210/Piccolo7210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-Year Software Engineering Student at the University of Dhaka  
+💻 Passionate about full-stack development, distributed systems, and open-source projects  
+🔍 Always eager to explore, learn, and build meaningful software solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm currently pursuing my B.Sc. in Software Engineering at the **Institute of Information Technology**, University of Dhaka. With a CGPA of **3.82 (out of 4.00)** and hands-on experience in diverse projects, I thrive at the intersection of theory and practical problem-solving.
+
+I enjoy developing full-stack applications, building intelligent systems, and contributing to software that helps real-world users. Whether it's designing REST APIs, crafting responsive frontends, or diving into network traffic analysis, I love taking on new challenges.
+
+---
+
+## 💼 Featured Projects
+
+### 🔗 [Shosti](https://github.com/FarhanTausif/shosti)  
+*A complete mental health platform*  
+- Built with React, Node.js, and Tailwind CSS  
+- Real-time video calls (ZegoCloud), AI chatbot (Gemini API), JWT Auth, and payments (SSLCommerz)  
+- Cloudinary, MailSend, and MongoDB integration
+
+### 🎮 [Connect Four](https://github.com/T-T0ha/Connect-Four)  
+*Lua game with AI*  
+- Developed an intelligent Connect Four game with Minimax algorithm  
+- Optimized evaluation function for better performance
+
+### 📚 [Smart Library System](https://github.com/Piccolo7210/Smart-Library-System)  
+*Distributed microservices-based library platform*  
+- Dockerized microservices, NGINX reverse proxy, modular architecture  
+
+### 🛰 [PacketEye](https://github.com/Piccolo7210/SPL1)  
+*Network packet analysis tool*  
+- Real-time traffic capture, PCAP parsing, SYN flood detection  
+
+### 🐦 [Flappy Bird Clone](https://github.com/Piccolo7210/Flappy-Bird)  
+*Classic arcade game in Java*  
+- Smooth gameplay mechanics with object collision and score tracking  
+
+---
+
+## 🛠 Skills & Technologies
+
+**Languages:**  
+C, C++, Java, Python, JavaScript, Lua, SQL, PHP, HTML/CSS
+
+**Web & Frameworks:**  
+React.js, Next.js, Node.js, Express.js, Tailwind CSS
+
+**Tools & Platforms:**  
+Git, GitHub, Docker, NGINX, Postman, ZegoCloud, Cloudinary, Selenium, Linux
+
+**Databases:**  
+MongoDB, Oracle SQL
+
+---
+
+## 🌟 Activities & Achievements
+
+- **Assistant Treasurer**, IIT Software Engineers’ Community  
+- **Participant**, Bangladesh Physics Olympiad (National Round)  
+- Organized tech seminars, workshops, and national coding contests  
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mustakim-bin-mohsin/)  
+- 💌 Email: bsse1405@iit.du.ac.bd  
+- 📞 Phone: +8801740790455  
+- 🧠 Resume: [View PDF](https://docs.google.com/document/d/1RAZFTMS9vk3TcmjV4ZwxPs90V4C5aWwD8GToiNgk2Wo/edit?usp=sharing)
+
+---
+
+## 📊 GitHub Stats
+
+![Mustakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piccolo7210&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piccolo7210&layout=compact&theme=radical)
+
+---
+
+✨ *Let’s build something impactful together!*
